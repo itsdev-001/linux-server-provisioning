@@ -1,0 +1,7 @@
+Mon Mar  2 05:42:47 UTC 2026 : \033[0;32mStarting provisining...\033[0m
+Mon Mar  2 05:42:51 UTC 2026 : \033[0;31m[ERROR] user creation failed \033[0m
+Mon Mar  2 05:47:51 UTC 2026 : \033[0;32mStarting provisining...\033[0m
+Mon Mar  2 05:47:54 UTC 2026 : User created
+Mon Mar  2 05:47:56 UTC 2026 : Nginx Installed
+Mon Mar  2 05:47:58 UTC 2026 : firewall configured
+Mon Mar  2 05:47:58 UTC 2026 : \033[0;32mprovisioning completed Successfully\033[0m
